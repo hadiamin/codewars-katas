@@ -10,7 +10,7 @@ Codewars is a community-driven platform that provides a fun and challenging way 
 
 The repository is organised by programming language, with each language having its own folder. Within each folder, the solutions grouped by kata and include the kata name and level in the file name. For example:
 
-![image](https://user-images.githubusercontent.com/15330589/229352211-54cce6c4-2ab1-41ac-b800-bfe8007c53df.png)
+![image](https://user-images.githubusercontent.com/15330589/229354068-48810977-dbdc-4187-a9f1-85bbb9013283.png)
 
 ## Running the Solutions
 
