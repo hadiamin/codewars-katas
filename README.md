@@ -10,12 +10,7 @@ Codewars is a community-driven platform that provides a fun and challenging way 
 
 The repository is organised by programming language, with each language having its own folder. Within each folder, the solutions grouped by kata and include the kata name and level in the file name. For example:
 
-python/
-├── 8-kyu/
-│   ├── even_or_odd.py
-│   └── sum_of_positive.py
-└── 6-kyu/
-    └── convert_string_to_camel_case.py
+![image](https://user-images.githubusercontent.com/15330589/229352211-54cce6c4-2ab1-41ac-b800-bfe8007c53df.png)
 
 ## Running the Solutions
 
